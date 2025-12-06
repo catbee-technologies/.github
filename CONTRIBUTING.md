@@ -124,7 +124,7 @@ Read the full Code of Conduct here:
 **[CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)**
 
 Concerns or violations can be reported privately via:  
-**hprasath.dev@gmail.com**
+**info@catbee.in**
 
 ---
 

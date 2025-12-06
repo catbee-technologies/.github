@@ -12,7 +12,7 @@ If you believe you have discovered a **security vulnerability** in any Catbee Te
 - **Do not** open a public GitHub issue.
 - **Do not** disclose the issue publicly.
 - Please send a detailed report to:  
-  **hprasath.dev@gmail.com**
+  **security@catbee.in**
 
 Include, when possible:
 
@@ -75,4 +75,4 @@ We appreciate all responsible security efforts that help make our ecosystem safe
 ## 📬 Contact
 
 For any questions or concerns related to security:  
-**hprasath.dev@gmail.com**
+**support@catbee.in**
